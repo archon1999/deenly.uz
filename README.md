@@ -1,4 +1,10 @@
-# Deenly.uz
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg"><img src="assets/banner-light.svg" alt="Deenly" width="100%"></picture>
+
+# Deenly
+
+[Website](https://deenly.uz/) · [Product & architecture](https://github.com/archon1999/engineering-portfolio/blob/main/projects/deenly.md) · [Nazarbek Baltabaev](https://github.com/archon1999)
+
+[![CI](https://github.com/archon1999/DeenlyBot/actions/workflows/ci-cd.yml/badge.svg?branch=main)](https://github.com/archon1999/DeenlyBot/actions/workflows/ci-cd.yml)
 
 Shaxsiy islomiy o‘rganish va ibodat platformasi: Django backend, Telegram bot
 va Minimal UI TypeScript v7.4.0 asosidagi React + MUI frontend. Interfeys va
